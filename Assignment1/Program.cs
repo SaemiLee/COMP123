@@ -18,7 +18,10 @@ namespace Assignment1
             string name = Console.ReadLine();
             Hero aHero = new Hero(name);            
             aHero.show();
-            aHero.fight();            
+            aHero.fight();
+
+            Console.WriteLine("Enter the any key to exit");
+            Console.ReadKey();
            
         }
     }
