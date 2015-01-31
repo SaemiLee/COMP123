@@ -1,7 +1,16 @@
-﻿/* SaemiLee
- * 01/26/2015
+﻿/****************************************************************************************************
+ * Author's Name : Saemi Lee
  * 
- */
+ * Date last modified : 01/30/2015
+ * 
+ * Program description : This program generates randomly the hero's strength , speed, 
+ * and health who is input from user, and estimates hit damage by the hero.
+ * 
+ *  Revision History  :
+ *  Date        Author  Ref Revision (Date in MMDDYYYY format)
+ *  01262015    Saemi   2   
+ *****************************************************************************************************/
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
